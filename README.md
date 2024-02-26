@@ -24,7 +24,7 @@ I. insurance.csv : dataset used for model building.
   
 - smoker *(int)* : Smoking 
 
-- region *(string)* : the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. 
+- region *(int)* : the beneficiary's residential area in the US, northeast, southeast, southwest, northwest. 
 
 - charges *(float)* : Individual medical costs billed by health insurance 
 
